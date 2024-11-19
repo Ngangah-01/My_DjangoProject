@@ -4,142 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f496aeb0-839b-4438-afa8-0a2408128f98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApplicationOne/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApplicationOne/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApplicationOne/templates/About.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApplicationOne/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApplicationOne/templates/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApplicationOne/templates/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApplicationOne/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ApplicationOne/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProjectDjango/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1156132.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1269646.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/156bd4950a8b168476366b623b7536c3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/3-nature-wallpaper-mountain.1440.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/360_F_578713850_hEvahIUQFM6MYo8Y9s6WpNbVKcwlfEmo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/483081.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/5460753.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/5886743.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/648552.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/807716.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/A vs M.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Audi Quattro Concept.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Bugatti+Veyron.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Bugatti-Atlantic.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Bugatti.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Cool cars wallpapers for desktop 3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Rolls-Royce-PC-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Rolls-Royce.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2023-10-20 191928.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2023-11-18 184128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2023-11-18 202812.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2023-11-23 082013.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2023-11-25 155445.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2023-11-26 194956.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2023-11-26 195653.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-01-24 195145.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-01-25 181416.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-01-25 181951.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-01-25 184120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-01-25 184429.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-01-25 185750.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-02-01 181326.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-02-07 084901.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-02-07 085505.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-02-08 180829.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-02-08 181457.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-02-08 181723.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-02-08 184716.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Screenshot 2024-02-08 190739.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Thar-Backgrounds-Desktop-1024x576.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/WIN_20221202_13_53_25_Pro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/WIN_20221202_13_53_30_Pro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Wallpaper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/Wallpapers' 1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/attachment_77664059.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/bugati.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/cute-astronaut-cat-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/drops.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/electronic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/f86e7c71eacb46613b94c3988e09cbe7--fantasy-art-wolf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hD 2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hass.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hass2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hd 4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/hd3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/headlight.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/iff visual basic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/image1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/image2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/images.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/ink mix.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/istockphoto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/leaf-1001679__340.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/mia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/mix ink.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/paris.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pexels-photo-16129703.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/qePRJB.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/range-rover-sv-carmel-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tiger.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tiger.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/turtle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/uae.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/wallpape.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/bootstrap5.3/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/style/main.css" afterDir="false" />
-    </list>
+    <list default="true" id="f496aeb0-839b-4438-afa8-0a2408128f98" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,22 +31,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/Documents/DJANGO-PROJECT&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/hp/Documents/DJANGO-PROJECT",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="DjangoApp" is-module-sdk="true">
@@ -223,7 +88,7 @@
       <workItem from="1731910509307" duration="388000" />
       <workItem from="1731917892458" duration="2870000" />
       <workItem from="1732016559713" duration="8050000" />
-      <workItem from="1732042099957" duration="496000" />
+      <workItem from="1732042099957" duration="943000" />
     </task>
     <servers />
   </component>
