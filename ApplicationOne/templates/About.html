@@ -1,0 +1,52 @@
+{% extends 'base.html' %}
+{% block title %}
+About
+{% endblock %}
+{% block content %}
+{% if messages %}
+    {% for message in messages %}
+    <div class="alert {{ message.tags }}">{{ message }}</div>
+    {% endfor %}
+{% endif %}
+<h3 class="text-center text-bg-dark rounded p-2 mt-3 text-light display-6 ">Student List</h3>
+<table class="table">
+    <thead>
+    <tr>
+    <th>PHOTO</th>
+    <th>NAME</th>
+    <th>AGE</th>
+    <th>Gender</th>
+    <th>COURSE</th>
+    <th></th>
+    <th></th>
+    </tr>
+    </thead>
+        <tbody>
+        {% for student in data %}
+        <tr>
+            <td>
+                {% if student.image %}
+                <img src="{{ student.image.url }}" alt="{{ student.name }}" style="width: 80px; height: 80px;">
+                {% else %}
+                <img src="" alt="No Image" style="width: 80px; height: 80px;">
+                {% endif %}
+            </td>
+            <td>{{ student.name }}</td>
+            <td>{{ student.age }}</td>
+            <td>{{ student.gender }}</td>
+            <td>{{ student.course }}</td>
+            <td><a href="{% url 'edit' student.id %}" class="btn btn-success" type="button" >Edit student</a></td>
+            <td><a href="{% url 'delete' student.id  %}" class="btn btn-danger" type="button" onclick="return confirm('Are you sure tou want to delete the student?')">DELETE</a></td>
+        </tr>
+        {% endfor %}
+        </tbody>
+</table>
+{% endblock %}
+
+
+
+
+
+
+
+

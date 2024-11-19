@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+<!--    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">-->
+<!--    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js">-->
+  {% load static %}
+    <link rel="stylesheet" href="{% static 'style/bootstrap5.3/css/bootstrap.min.css'%}">
+    <link rel="stylesheet" href="{% static 'style/bootstrap5.3/main.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+</head>
+<body>
+<header>
+    <nav class="navbar navbar-expand-lg bg-success">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><hr class="dropdown-divider"></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+      <form class="d-flex" role="search">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+</header>
+{% block content %}
+
+{% endblock %}
+
+<script src="{% static 'style/bootstrap5.3/js/bootstrap.bundle.min.js' %}"></script>
+
+<!-- Footer Section -->
+<footer class="bg-dark text-light pt-5 pb-3 mt-5">
+    <div class="container">
+        <div class="row">
+            <!-- Company Info -->
+            <div class="col-md-3">
+                <h5 class="text-uppercase mb-3">Horizon</h5>
+                <p>Your trusted partner in providing the best educational services.</p>
+                <ul class="list-unstyled">
+                    <li><a href="#" class="text-light">About Us</a></li>
+                    <li><a href="#" class="text-light">Careers</a></li>
+                    <li><a href="#" class="text-light">Privacy Policy</a></li>
+                    <li><a href="#" class="text-light">Terms & Conditions</a></li>
+                </ul>
+            </div>
+
+            <!-- Quick Links -->
+            <div class="col-md-3">
+                <h5 class="text-uppercase mb-3">Quick Links</h5>
+                <ul class="list-unstyled">
+                    <li><a href="#" class="text-light">Blog</a></li>
+                    <li><a href="#" class="text-light">Contact Us</a></li>
+                    <li><a href="#" class="text-light">FAQs</a></li>
+                    <li><a href="#" class="text-light">Support</a></li>
+                </ul>
+            </div>
+
+            <!-- Social Media Links -->
+            <div class="col-md-3">
+                <h5 class="text-uppercase mb-3">Follow Us</h5>
+                <div>
+                    <a href="#" class="text-light me-3"><i class="bi bi-facebook fs-4"></i></a>
+                    <a href="#" class="text-light me-3"><i class="bi bi-twitter fs-4"></i></a>
+                    <a href="#" class="text-light me-3"><i class="bi bi-instagram fs-4"></i></a>
+                    <a href="#" class="text-light me-3"><i class="bi bi-linkedin fs-4"></i></a>
+                </div>
+            </div>
+
+            <!-- Newsletter Subscription -->
+            <div class="col-md-3">
+                <h5 class="text-uppercase mb-3">Subscribe</h5>
+                <p>Sign up for our newsletter to get the latest updates.</p>
+                <form action="#" method="post">
+                    <div class="input-group">
+                        <input type="email" class="form-control" placeholder="Enter your email" required>
+                        <button class="btn btn-primary" type="submit">Subscribe</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <!-- Copyright -->
+        <div class="text-center mt-4">
+            <small>&copy; 2024 HorizonSchool. All rights reserved.</small>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>

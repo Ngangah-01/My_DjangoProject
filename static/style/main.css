@@ -1,0 +1,75 @@
+/* Prevent horizontal scrolling */
+html, body {
+    overflow-x: hidden;
+    scrollbar-width: none;  /* Hides the scrollbar */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+
+/* Custom Footer Styling */
+footer {
+    background-color: #343a40; /* Dark background for footer */
+    color: #f8f9fa;            /* Light text color */
+}
+
+footer h5 {
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #f8f9fa;  /* Default color for links */
+}
+
+footer a:hover {
+    color: #ffc107;  /* Hover effect color (golden) */
+    text-decoration: underline;
+}
+
+footer .input-group input {
+    border-radius: 25px;
+    padding: 10px;
+    border: none;
+    margin-right: 5px;
+}
+
+footer .input-group button {
+    border-radius: 25px;
+    background-color: #ffc107;
+    border: none;
+    padding: 10px 20px;
+}
+
+footer .input-group button:hover {
+    background-color: #e0a800; /* Slightly darker golden */
+}
+
+/* Social Icons Styling */
+footer .bi {
+    transition: color 0.3s;
+}
+
+footer .bi:hover {
+    color: #ffc107;
+}
+
+/* Footer Copyright Section */
+footer .text-center small {
+    font-size: 0.9rem;
+    color: #ccc;
+}
+
+footer .text-center small a {
+    color: #f8f9fa;
+}
+
+footer .text-center small a:hover {
+    color: #ffc107;
+}
+footer.mt-5 {
+    margin-top: 5rem;
+}
